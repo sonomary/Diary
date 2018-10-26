@@ -48,6 +48,7 @@ img {
     display: flex;
 }
 div {
+    font-family: 'Source Sans Pro', sans-serif;
     background-color: pink;
     width: 800px;
     border: 25px pink;

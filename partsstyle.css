@@ -1,0 +1,55 @@
+@import "reset.css";
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+body {
+  background-image: url(giphy11.gif);
+  margin-bottom: 30px;
+}
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 55px;
+    display: flex;
+    letter-spacing: 3px;
+    color: pink;
+    margin-right: 1150px;
+    margin-top: -75px;
+
+}
+
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size:20px;
+  display: flex;
+  letter-spacing: 1px;
+  color: #fff;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+
+}
+h2{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 45px;
+  display: flex;
+  letter-spacing: 3px;
+  color: white;
+  margin-left: 20px;
+  margin-top: 10px;
+
+}
+
+img {
+    padding: 5px;
+    width: 400px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+div {
+    background-color: pink;
+    width: 800px;
+    border: 25px pink;
+    padding: 0px;
+    margin: 0px;
+}

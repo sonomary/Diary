@@ -3,7 +3,7 @@
 
 body {
   background-image: url(giphy11.gif);
-  margin-bottom: 30px;
+  margin-top: 30px;
 }
 
 h1 {
@@ -14,6 +14,7 @@ h1 {
     color: pink;
     margin-right: 1150px;
     margin-top: -75px;
+    display: flex;
 
 }
 
@@ -26,6 +27,7 @@ p{
   margin-top: 10px;
   margin-left: 20px;
   margin-right: 20px;
+  display: flex;
 
 
 }
@@ -37,6 +39,7 @@ h2{
   color: white;
   margin-left: 20px;
   margin-top: 10px;
+  display: flex;
 
 }
 
@@ -45,6 +48,7 @@ img {
     width: 400px;
     margin-left: 15px;
     margin-top: 10px;
+    display: flex;
 }
 div {
     background-color: pink;
@@ -52,4 +56,5 @@ div {
     border: 25px pink;
     padding: 0px;
     margin: 0px;
+    display: flex;
 }
